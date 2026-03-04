@@ -1,1 +1,1 @@
-# Membrane-fluidity-Assay
+# Artificial GRCRs - HALOS
